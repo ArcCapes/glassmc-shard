@@ -1,5 +1,5 @@
-id = "example"
-version = "0.6.0"
+id = "arc-compatibility"
+version = "0.1.0"
 
 implementations = [
     "client"
