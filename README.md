@@ -1,3 +1,4 @@
+# WARNING: This is not finished and will probably not work.
 # Arc Shard (mod) for GlassMC
 An Arc mod made for GlassMC.
 
